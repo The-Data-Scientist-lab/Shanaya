@@ -30,7 +30,7 @@ const Header: React.FC = () => {
 
           <div className="mt-6 flex items-center justify-center">
             <a 
-              href="https://t.me/shanaya" 
+              href="https://t.me/Sexy_shanayaa" 
               target="_blank"
               rel="noopener noreferrer" 
               className="flex items-center bg-gradient-to-r from-pink-500 to-pink-700 text-white px-6 py-3 rounded-full hover:from-pink-600 hover:to-pink-800 transition-all shadow-lg hover:shadow-xl"
